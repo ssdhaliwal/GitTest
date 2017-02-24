@@ -3,6 +3,8 @@ updated at remove
 line 3 from work local
 1.0 created back in development
 2.0 created and tagged
-2.11 created and added
-merged with 2.11 and created 3.0
+<<<<<<< HEAD
 work on 3.0
+=======
+2.11 created and added
+>>>>>>> 2.0
